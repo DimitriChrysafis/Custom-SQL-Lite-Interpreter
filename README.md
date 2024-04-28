@@ -6,7 +6,6 @@ This project is a custom SQLite interpreter implemented in C++. Simulate a datab
 
 ## Example
 
-Also here is main.cpp which implements everything below!
 <img src="sample.png" alt="Example" style="width: 50%;">
 
 ## Commands
