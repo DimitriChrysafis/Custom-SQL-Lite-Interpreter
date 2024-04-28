@@ -1,0 +1,3 @@
+/Users/dimitri.chrysafis/CLionProjects/SQL/cmake-build-debug/CMakeFiles/SQL.dir
+/Users/dimitri.chrysafis/CLionProjects/SQL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dimitri.chrysafis/CLionProjects/SQL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

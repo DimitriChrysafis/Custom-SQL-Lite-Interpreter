@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -DOpenCV_DIR=/usr/local/opt/opencv@2/share/OpenCV -G Ninja -S /Users/dimitri.chrysafis/CLionProjects/SQL -B /Users/dimitri.chrysafis/CLionProjects/SQL/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/dimitri.chrysafis/CLionProjects/SQL/cmake-build-debug
