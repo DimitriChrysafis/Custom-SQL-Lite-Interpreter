@@ -4,6 +4,11 @@ Explanation and detailed docs: [Documentation.pdf](Documentation.pdf) file.
 
 This project is a custom SQLite interpreter implemented in C++. Simulate a database on your computer locally in c++.
 
+## Example
+
+Also here is main.cpp which implements everything below!
+![Example](image.png)
+
 ## Commands
 
 - `createTable`: Creates a new table in the database.
