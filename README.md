@@ -7,7 +7,7 @@ This project is a custom SQLite interpreter implemented in C++. Simulate a datab
 ## Example
 
 Also here is main.cpp which implements everything below!
-![Example](image.png)
+![Example](sample.png)
 
 ## Commands
 
